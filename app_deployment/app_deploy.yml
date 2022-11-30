@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: my-nginx
-        image: jafferaliu/nginx_sg
+        image: srinathdh/srinath-nginx
         ports:
         - containerPort: 80
 
